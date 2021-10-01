@@ -1,0 +1,17 @@
+body{
+color:crimson;
+background-size: cover;
+background-color: darkblue;
+}
+.heading{
+    width:80%;
+    font-size: 25px;
+}
+.objectnames,#result_object_name,#result_accuracy_name{
+    color: magenta;
+}
+#webcam{
+    border: 2px dashed indigo;
+    width: 350px;
+    height: 300px;
+}
